@@ -18,7 +18,7 @@
 - 🌟 **Interactive 3D Scenes:** Fully immersive and visually appealing  
 - 📱 **Responsive Design:** Mobile, tablet, and desktop ready  
 - ✨ **Smooth Animations:** Fluid transitions and effects for better UX  
-- 🛠 **Project Showcase:** Highlight your work with visuals and links  
+- 🛠 **Project Showcase:** Highlight work with visuals and links  
 - 📬 **Contact Form:** Quick and easy way for visitors to reach out  
 
 
