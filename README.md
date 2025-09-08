@@ -3,7 +3,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
 
 🎨 **Build a 3D portfolio with React.js and Three.js!**  
  
