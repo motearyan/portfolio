@@ -96,7 +96,7 @@ const CyberNode = ({ position, size, color }) => {
       <mesh ref={coreRef} geometry={geometry} scale={0.6}>
         <meshStandardMaterial color={color} emissive={color} emissiveIntensity={2} toneMapped={false} />
       </mesh>
-      <mesh geometry={geometry} scale={1.05}>
+      <mesh geometry={geometry} scale={1.5}>
         <meshBasicMaterial color={color} wireframe transparent opacity={0.08} />
       </mesh>
     </group>
